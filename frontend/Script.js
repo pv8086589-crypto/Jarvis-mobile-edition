@@ -16,4 +16,4 @@ function add(text,who){
  d.innerText=text;
  chat.appendChild(d);
  chat.scrollTop=chat.scrollHeight;
- 
+
